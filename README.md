@@ -1,0 +1,1 @@
+# minicurso-jhipster.github.io
